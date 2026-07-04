@@ -1,6 +1,6 @@
 # Hi 👋, I'm K R Punith
 
-### 💻 Computer Science Engineering Student | Java Developer | Python Enthusiast | AI & Machine Learning Learner
+### 💻 Information Science Engineering Student | Python Enthusiast | AI & Machine Learning Learner
 
 - 🎓 Final Year B.E. Information Science Engineering
 - 🌱 Currently learning Machine Learning, AI & Full Stack Development
