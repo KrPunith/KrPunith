@@ -1,16 +1,13 @@
-## Hi there 👋
+##  Hi 👋, I'm K R Punith
 
-<!--
-**KrPunith/KrPunith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Python | SQL | HTML | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Machine Learning & AI
+
+🚀 Passionate aboutAi Engineer | Software Development
+
+📫 Email: krpunith2@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/k-r-punith-bb1277301
