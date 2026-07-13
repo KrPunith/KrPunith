@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-  <img src="Banner.jpg" width="50%">
+  <img src="Banner(1).jpg" width="70%">
 </p>
 ## 🛠 Skills
 
