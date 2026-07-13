@@ -10,9 +10,8 @@
 
 ---
 <p align="center">
-  <img src="Screenshot_2026-07-13-21-23-55-xxx.jpg" width="100%">
+  <img src="Banner.jpg" width="100%">
 </p>
-
 ## 🛠 Skills
 
 
