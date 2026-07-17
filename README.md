@@ -16,7 +16,7 @@
 <p align="center">
   <img src="Banner (1).jpg" width="70%">
 </p>
-## 🛠 Skills
+
 
 ## 🛠️ Tech Stack
 
