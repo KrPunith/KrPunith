@@ -41,8 +41,8 @@
 
 - 🎤 AI Voice Assistant
 - 🧮 Simple Calculator
-- ⚖️ BMI Calculator
-- 🤖 Machine Learning Projects
+- ⚖️ Ai customer Review Intelligence 
+- 🤖 AI Ecosystem
 
 ---
 
