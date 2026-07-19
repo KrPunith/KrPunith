@@ -67,5 +67,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:krpunith2@gmail.com)
 
 ---
+![](https://komarev.com/ghpvc/?username=KrPunith&color=blue)
 
 ⭐ Thanks for visiting my GitHub Profile
