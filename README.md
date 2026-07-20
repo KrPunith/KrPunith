@@ -41,8 +41,8 @@
 
 - 🎤 AI Voice Assistant
 - 🧮 Simple Calculator
-- ⚖️ Ai customer Review Intelligence 
-- 🤖 AI Ecosystem
+- ⚖️ AI customer Review Intelligence 
+- 🤖 AI Resume Analyser and Mock interview 
 
 ---
 
