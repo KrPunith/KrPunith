@@ -1,10 +1,5 @@
 
  <h1 align="center">Hi 👋, I'm K R  Punith</h1>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZm04a203bnRxbm41ZXlzYnRqOG5wZnE0ZXEwbGN4MDZxNzJtajFjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="350" alt="Coding Boy GIF">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Information+Science+Engineering+Student;Python+Enthusiast;AI+%26+Machine+Learning+Learner;Aspiring+AI+Engineer" />
 </p>
@@ -21,7 +16,7 @@
   <img src="Banner (1).jpg" width="80%">
 </p>
 
-![](https://komarev.com/ghpvc/?username=KrPunith&color=blue)
+<h1 alig="center">![](https://komarev.com/ghpvc/?username=KrPunith&color=blue) </h1>
 
 ## 🛠️ Tech Stack
 
@@ -70,6 +65,9 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:krpunith2@gmail.com)
 
 ---
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZm04a203bnRxbm41ZXlzYnRqOG5wZnE0ZXEwbGN4MDZxNzJtajFjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="350" alt="Coding Girl GIF">
+</p>
 
 
 ⭐ Thanks for visiting my GitHub Profile
