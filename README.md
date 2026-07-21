@@ -16,7 +16,7 @@
   <img src="Banner (1).jpg" width="80%">
 </p>
 
-<h1 alig="center">![](https://komarev.com/ghpvc/?username=KrPunith&color=blue) </h1>
+![](https://komarev.com/ghpvc/?username=KrPunith&color=blue) 
 
 ## 🛠️ Tech Stack
 
