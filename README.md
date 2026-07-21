@@ -17,6 +17,7 @@
   <img src="Banner (1).jpg" width="80%">
 </p>
 
+![](https://komarev.com/ghpvc/?username=KrPunith&color=blue)
 
 ## 🛠️ Tech Stack
 
@@ -32,8 +33,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </p>
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -67,6 +66,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:krpunith2@gmail.com)
 
 ---
-![](https://komarev.com/ghpvc/?username=KrPunith&color=blue)
+
 
 ⭐ Thanks for visiting my GitHub Profile
