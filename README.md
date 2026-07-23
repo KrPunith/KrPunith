@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Information+Science+Engineering+Student;Python+Enthusiast;AI+%26+Machine+Learning+Learner; Aspiring+AI+Engineer" />
 </p>
 
-
 - 🎓 Final Year B.E. Information Science Engineering
 - 🌱 Currently learning Machine Learning, AI & Full Stack Development
 - 💻 Interested in  Python and Software Development, AI. 
