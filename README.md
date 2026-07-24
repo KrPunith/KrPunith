@@ -7,7 +7,7 @@
 
 - 🎓 Final Year B.E. Information Science Engineering
 - 🌱 Currently learning Machine Learning, AI & Full Stack Development
-- 💻 Interested in  Python and Software Development, AI. 
+- 💻 Interested in  Python and Software Development,AI. 
 - 📫 Email: krpunith2@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/k-r-punith-bb1277301
 
