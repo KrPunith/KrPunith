@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="Banner (1).jpg" width="50%">
+  <img src="Banner (1).jpg" width="60%">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=KrPunith&color=blue) 
