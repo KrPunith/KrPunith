@@ -72,4 +72,4 @@
 </p>
 
 
-<center>⭐ Thanks for visiting my GitHub Profile</center>
+<h2 align = "center">⭐ Thanks for visiting my GitHub Profile</h2>
