@@ -71,5 +71,4 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZm04a203bnRxbm41ZXlzYnRqOG5wZnE0ZXEwbGN4MDZxNzJtajFjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="350" alt="Coding boy  GIF">
 </p>
 
-
 <h2 align = "center">⭐ Thanks for visiting my GitHub Profile</h2>
