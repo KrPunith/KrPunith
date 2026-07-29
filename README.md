@@ -44,11 +44,6 @@
 - ⚖️ AI customer Review Intelligence 
 - 🤖 AI Resume Analyser and Mock interview
 -    capstone  project
-
-  ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KrPunith&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 📊 GitHub Stats
