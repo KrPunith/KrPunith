@@ -45,7 +45,7 @@
 - ⚖️ AI customer Review Intelligence 
 - 🤖 AI Resume Analyser and Mock interview
 -    capstone  project
----
+--
 
 ## 📊 GitHub Stats
 
